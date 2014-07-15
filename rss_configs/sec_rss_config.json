@@ -1,0 +1,4 @@
+{
+    "RSS Feed URL"  : "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=&company=&dateb=&owner=include&start=0&output=atom",
+    "Count"         : 100
+}
